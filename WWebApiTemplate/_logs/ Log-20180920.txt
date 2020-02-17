@@ -1,0 +1,18 @@
+2018-09-20 16:15:29.638 +02:00 [Information] Obiekt dto został prawidłowo zmapowany
+2018-09-20 16:19:09.422 +02:00 [Error] Błąd czegośtam exception :0
+2018-09-20 16:22:10.302 +02:00 [Error] Błąd czegośtam exception :0
+2018-09-20 16:25:53.806 +02:00 [Error] Błąd czegośtam exception: 
+2018-09-20 16:27:43.447 +02:00 [Error] Błąd czegośtam exception:
+Unmapped members were found. Review the types and members below.
+Add a custom mapping expression, ignore, add a custom resolver, or modify the source/destination type
+For no matching constructor, add a no-arg ctor, add optional arguments, or map all of the constructor parameters
+===============================================================
+AutoMapper created this type map for you, but your types cannot be mapped using the current configuration.
+Car -> GoldPriceDTO (Destination member list)
+WWebApiTemplate.Models.Car -> WWebApiTemplate.DTO.GoldPriceDTO (Destination member list)
+
+Unmapped properties:
+Data
+Cena
+Country
+
